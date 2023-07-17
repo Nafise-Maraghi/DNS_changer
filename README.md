@@ -1,4 +1,6 @@
-# Simpe windows app for setting and flushing DNS
+# DNS changer
+
+Simpe windows app for setting and flushing DNS.
 
 The default DNS is from shecan.ir
 
